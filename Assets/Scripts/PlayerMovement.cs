@@ -6,13 +6,16 @@ public class PlayerMovement : MonoBehaviour
 
     // เก็บตำแหน่ง checkpoint ล่าสุด
     private Vector3 lastCheckpoint;
-
+    private Vector3 startPosition;
     public GameManager gameManager;
 
     void Start()
     {
         // ตั้งค่าเริ่มต้น: จุดเริ่มเกมคือ checkpoint แรก
         lastCheckpoint = transform.position;
+
+        startPosition = transform.position;
+        lastCheckpoint = startPosition;
     }
 
     void Update()
@@ -65,4 +68,10 @@ public class PlayerMovement : MonoBehaviour
             gameManager.WinGame();
         }
     }
+    public void ResetToStart()
+    {
+        transform.position = startPosition;
+        lastCheckpoint = startPosition;
+    }
+
 }
