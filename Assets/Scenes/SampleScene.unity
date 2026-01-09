@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (43)
@@ -141,7 +145,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.05
+      value: -5.5846
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -179,6 +183,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -192,6 +200,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (27)
@@ -206,7 +218,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.9336
+      value: -5.4826
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -244,6 +256,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -257,6 +273,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (50)
@@ -271,7 +291,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.041
+      value: 8.5319
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -309,6 +329,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -322,6 +346,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (30)
@@ -336,7 +364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.292015
+      value: -2.2878
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -374,6 +402,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 129.91
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -387,6 +419,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (2)
@@ -397,7 +437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.4776
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -434,6 +474,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -525,8 +569,8 @@ Transform:
   m_GameObject: {fileID: 85163497}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.6902, y: 1.6902, z: 1.6902}
+  m_LocalPosition: {x: 1.4776, y: 0, z: 0}
+  m_LocalScale: {x: 1.4827408, y: 1.6902, z: 1.6902}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -539,6 +583,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (66)
@@ -553,7 +601,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.8710003
+      value: 6.6282
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -591,6 +639,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -604,6 +656,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (70)
@@ -618,7 +674,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5360003
+      value: 5.457
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -656,6 +712,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -669,6 +729,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (45)
@@ -683,7 +751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.56
+      value: -2.5229
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -720,6 +788,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -785,7 +857,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -813,6 +885,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (21)
@@ -827,7 +903,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.457998
+      value: -5.9427
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -865,6 +941,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -49.952
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -878,6 +958,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (44)
@@ -892,7 +976,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.27
+      value: -1.3912
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -930,6 +1014,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -943,6 +1031,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (32)
@@ -957,7 +1049,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.338
+      value: -3.2054
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -994,6 +1086,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 229.814
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1059,10 +1155,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 22
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -1113,10 +1209,10 @@ RectTransform:
   - {fileID: 1129867193}
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1364, y: 732.4592}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &234875373
 MonoBehaviour:
@@ -1164,6 +1260,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (51)
@@ -1178,7 +1278,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.22
+      value: 6.9343
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1216,6 +1316,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1230,8 +1334,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.41
+      value: -0.6367
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1269,6 +1377,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Name
       value: Checkpoint (3)
@@ -1286,6 +1398,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (62)
@@ -1300,7 +1416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.161
+      value: 4.2507
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1338,6 +1454,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1351,6 +1471,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (8)
@@ -1365,7 +1489,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.48
+      value: -2.4527
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1403,6 +1527,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1416,6 +1544,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (71)
@@ -1430,7 +1562,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.873
+      value: 6.6299
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1468,6 +1600,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1481,6 +1617,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (63)
@@ -1495,7 +1635,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5
+      value: 5.4254
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1532,6 +1672,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1572,8 +1716,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -2}
+  m_SizeDelta: {x: 0, y: -2.4693}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &381101258
 MonoBehaviour:
@@ -1597,10 +1741,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -1649,11 +1793,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 371, y: -186.1}
-  m_SizeDelta: {x: 67.4306, y: 16.8577}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -85, y: 42.100006}
+  m_SizeDelta: {x: 67.4306, y: 16.857697}
+  m_Pivot: {x: 1, y: 0}
 --- !u!114 &407962146
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1701,8 +1845,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 11
-  m_fontSizeBase: 11
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1763,12 +1907,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.31
+      value: 9.6452
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.21
+      value: -4.28
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1812,6 +1960,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
@@ -1863,8 +2015,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -40}
-  m_SizeDelta: {x: 217.4335, y: 40.7687}
+  m_AnchoredPosition: {x: 0, y: -79.393}
+  m_SizeDelta: {x: 324.5163, y: 60.8467}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &465004235
 MonoBehaviour:
@@ -1968,6 +2120,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (28)
@@ -1982,7 +2138,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.894
+      value: -4.5706
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2020,6 +2176,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2033,6 +2193,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (81)
@@ -2047,7 +2211,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.787
+      value: 3.0453
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2084,6 +2248,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2221,8 +2389,8 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.4776, y: 0, z: -10}
+  m_LocalScale: {x: 0.8772576, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2235,6 +2403,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (12)
@@ -2249,7 +2421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.77
+      value: -6.2164
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2287,6 +2459,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2300,6 +2476,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (80)
@@ -2314,7 +2494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.86599976
+      value: 2.2373
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2351,6 +2531,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2392,11 +2576,11 @@ RectTransform:
   - {fileID: 1073524271}
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 297.85, y: 141.34}
-  m_SizeDelta: {x: 267.1097, y: 87.0078}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -20.900024, y: -63.100006}
+  m_SizeDelta: {x: 406.2683, y: 153.8772}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &555188133
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2443,6 +2627,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (75)
@@ -2457,7 +2645,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.241
+      value: 7.8301
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2495,6 +2683,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2508,6 +2700,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (56)
@@ -2522,7 +2718,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.163999
+      value: 4.2533
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2560,6 +2756,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2573,6 +2773,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (65)
@@ -2587,7 +2791,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.421
+      value: 6.2334
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2625,6 +2829,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2638,6 +2846,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (58)
@@ -2652,7 +2864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.19
+      value: 6.0308
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2690,6 +2902,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2703,6 +2919,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (72)
@@ -2717,7 +2937,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.323
+      value: 7.0247
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2754,6 +2974,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2838,8 +3062,8 @@ Transform:
   m_GameObject: {fileID: 619394800}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.4776, y: 0, z: 0}
+  m_LocalScale: {x: 0.8772576, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2852,6 +3076,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (1)
@@ -2862,7 +3090,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.4
+      value: 10.6015
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2900,6 +3128,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2913,6 +3145,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (36)
@@ -2927,7 +3163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.9000335
+      value: -4.5758
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2965,6 +3201,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 269.862
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2978,6 +3218,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (5)
@@ -2992,7 +3236,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.73
+      value: -0.0402
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3030,6 +3274,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3043,6 +3291,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (46)
@@ -3057,7 +3313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.6524
+      value: 2.9272
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3095,11 +3351,76 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0cd792594da755848acf76476a178975, type: 3}
+--- !u!1001 &689707700
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.628
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.899
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_Name
+      value: Checkpoint (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
 --- !u!1 &702884965
 GameObject:
   m_ObjectHideFlags: 0
@@ -3159,10 +3480,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -3187,6 +3508,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (57)
@@ -3201,7 +3526,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.09
+      value: 8.5749
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3239,6 +3564,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3252,6 +3581,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (69)
@@ -3266,7 +3599,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.086
+      value: 5.0622
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3304,6 +3637,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3317,6 +3654,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (17)
@@ -3331,7 +3672,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.4
+      value: 4.4603
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3369,6 +3710,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3383,12 +3728,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.41
+      value: -0.302
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.95
+      value: -0.969
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3421,6 +3770,10 @@ PrefabInstance:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Name
@@ -3465,8 +3818,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: -0.00000095367}
-  m_SizeDelta: {x: 518.1447, y: 173.3361}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 662.5245, y: 211.6187}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &748944645
 MonoBehaviour:
@@ -3530,8 +3883,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3591,6 +3944,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (24)
@@ -3605,7 +3962,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.329
+      value: -3.1976
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3643,6 +4000,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 49.952
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3656,6 +4017,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (16)
@@ -3670,7 +4035,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.886
+      value: -4.5635
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3708,6 +4073,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3722,8 +4091,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.658645
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.3
+      value: -6.6813
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3778,6 +4151,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (68)
@@ -3792,7 +4169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.615
+      value: 4.649
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3830,6 +4207,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3843,6 +4224,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (60)
@@ -3857,7 +4242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.24
+      value: 3.4427
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3895,6 +4280,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3908,6 +4297,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (7)
@@ -3922,7 +4315,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.84
+      value: -1.014
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3960,6 +4353,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3973,6 +4370,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (29)
@@ -3987,7 +4392,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.8857
+      value: 6.6411
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4025,6 +4430,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4038,6 +4447,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (73)
@@ -4052,7 +4465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.2440004
+      value: 7.8327
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4089,6 +4502,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4131,8 +4548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000011444, y: 34}
-  m_SizeDelta: {x: 271.0923, y: 50.8298}
+  m_AnchoredPosition: {x: -18, y: 64}
+  m_SizeDelta: {x: 407.2368, y: 98.5459}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &862797181
 MonoBehaviour:
@@ -4236,6 +4653,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (48)
@@ -4250,7 +4675,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.9077
+      value: 6.6603
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4288,6 +4713,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4301,6 +4730,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (40)
@@ -4315,7 +4748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.73
+      value: -0.0402
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4353,6 +4786,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4366,6 +4803,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (10)
@@ -4380,7 +4821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.95
+      value: -4.6196
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4418,6 +4859,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4431,6 +4876,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (31)
@@ -4445,7 +4894,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.8170485
+      value: -2.7484
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4483,6 +4932,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 269.862
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4496,6 +4949,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (74)
@@ -4510,7 +4967,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.7939997
+      value: 7.4379
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4548,6 +5005,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4561,6 +5022,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (15)
@@ -4575,7 +5040,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.7
+      value: 2.969
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4613,6 +5078,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4626,6 +5095,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (55)
@@ -4640,7 +5113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.2139993
+      value: 6.9291
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4677,6 +5150,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4717,11 +5194,11 @@ RectTransform:
   - {fileID: 2101018161}
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 403.5, y: 197.1}
-  m_SizeDelta: {x: 55.8085, y: 24.5162}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -21, y: -18}
+  m_SizeDelta: {x: 93.8481, y: 41.2267}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &992619153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4824,6 +5301,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (35)
@@ -4838,7 +5319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.420982
+      value: -5.0328
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4876,6 +5357,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 229.814
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4889,6 +5374,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (83)
@@ -4903,7 +5392,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.07
+      value: 3.2935
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4941,6 +5430,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4954,6 +5447,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (77)
@@ -4968,7 +5465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.612001
+      value: 9.0328
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5005,6 +5502,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5047,8 +5548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 44.8, y: -14.099995}
-  m_SizeDelta: {x: 67.224, y: 22.45}
+  m_AnchoredPosition: {x: 62.16107, y: -22.78292}
+  m_SizeDelta: {x: 91.2135, y: 38.0955}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1073524272
 MonoBehaviour:
@@ -5152,6 +5653,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (39)
@@ -5166,7 +5675,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.8184
+      value: -0.995
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5203,6 +5712,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5245,8 +5758,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.28496, y: -29.787903}
-  m_SizeDelta: {x: 271.87, y: 50.9757}
+  m_AnchoredPosition: {x: -17.571907, y: -58.56942}
+  m_SizeDelta: {x: 408.405, y: 96.3525}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1129867194
 MonoBehaviour:
@@ -5351,8 +5864,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.886808
+      value: 2.32
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5390,6 +5907,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Name
       value: Checkpoint (5)
@@ -5407,6 +5928,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (61)
@@ -5421,7 +5946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.711
+      value: 3.8559
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5458,6 +5983,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5548,8 +6077,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 60
-  m_fontSizeBase: 60
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5609,6 +6138,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (79)
@@ -5623,7 +6156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.4159997
+      value: 1.8426
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5660,6 +6193,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5753,6 +6290,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (47)
@@ -5767,7 +6308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.3276005
+      value: 8.7833
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5805,6 +6346,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5819,12 +6364,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.337318
+      value: 9.543
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.68307304
+      value: 0.676
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5858,6 +6407,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Name
       value: Checkpoint (2)
@@ -5875,6 +6428,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (9)
@@ -5889,7 +6446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.78
+      value: -3.5932
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5927,6 +6484,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5940,6 +6501,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (26)
@@ -5954,7 +6519,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.4119997
+      value: -5.025
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5992,6 +6557,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 49.952
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6005,6 +6574,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (19)
@@ -6019,7 +6592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.71
+      value: 7.3642
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6057,6 +6630,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6070,6 +6647,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (25)
@@ -6084,7 +6665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.8110003
+      value: -2.7432
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6121,6 +6702,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6163,8 +6748,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -42.8, y: -14.1}
-  m_SizeDelta: {x: 67.2235, y: 24.3}
+  m_AnchoredPosition: {x: -56.700012, y: -22.782822}
+  m_SizeDelta: {x: 91.2129, y: 41.2348}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1391900687
 MonoBehaviour:
@@ -6294,11 +6879,11 @@ RectTransform:
   - {fileID: 213250604}
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 311.4698, y: 197.1}
-  m_SizeDelta: {x: 119.0603, y: 24.519}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -122.57654, y: -17.997803}
+  m_SizeDelta: {x: 200.213, y: 41.2314}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &1407971172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6401,6 +6986,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (13)
@@ -6415,7 +7004,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.79
+      value: 3.0479
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6452,6 +7041,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6539,7 +7132,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6560,8 +7153,8 @@ Transform:
   m_GameObject: {fileID: 1425415715}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.289, y: -4.261, z: 0}
-  m_LocalScale: {x: 0.4569, y: 0.4569, z: 0.4569}
+  m_LocalPosition: {x: -6.636, y: -4.261, z: 0}
+  m_LocalScale: {x: 0.40081897, y: 0.400819, z: 0.400819}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6702,8 +7295,8 @@ Transform:
   m_GameObject: {fileID: 1434348475}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.4776, y: 0, z: 0}
+  m_LocalScale: {x: 0.8772576, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6716,6 +7309,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (78)
@@ -6730,7 +7327,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.162001
+      value: 8.6381
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6768,6 +7365,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6781,6 +7382,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (18)
@@ -6795,7 +7400,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.01
+      value: 5.8728
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6832,6 +7437,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6874,7 +7483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.22549438, y: -1.4645996}
+  m_AnchoredPosition: {x: -0.22546387, y: -1.4645996}
   m_SizeDelta: {x: -0.1403, y: -0.0716}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1509816182
@@ -6923,6 +7532,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (82)
@@ -6937,7 +7550,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.3369997
+      value: 2.6505
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6975,6 +7588,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6988,6 +7605,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (37)
@@ -7002,7 +7623,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.3749976
+      value: -4.1152
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7040,6 +7661,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 129.91
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7053,6 +7678,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (52)
@@ -7067,7 +7696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.19
+      value: 4.2762
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7105,6 +7734,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7118,6 +7751,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (64)
@@ -7132,7 +7769,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.95
+      value: 5.8202
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7170,6 +7807,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7183,6 +7824,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (3)
@@ -7193,7 +7842,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.4776
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7231,6 +7880,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7244,6 +7897,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (54)
@@ -7258,7 +7919,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.4412
+      value: 5.3738
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7296,6 +7957,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7309,6 +7974,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (11)
@@ -7323,7 +7992,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.91
+      value: -5.4619
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7360,6 +8029,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7398,11 +8071,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -358.4, y: -186.1}
-  m_SizeDelta: {x: 67.4306, y: 16.8577}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 89, y: 42.1}
+  m_SizeDelta: {x: 67.4306, y: 16.857697}
+  m_Pivot: {x: 0, y: 0}
 --- !u!114 &1682326757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7450,8 +8123,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 11
-  m_fontSizeBase: 11
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7489,7 +8162,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -36.925377, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -7511,6 +8184,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (59)
@@ -7525,7 +8202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.9
+      value: 9.2855
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7562,6 +8239,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7604,7 +8285,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 268.2, y: 112.4}
+  m_AnchoredPosition: {x: 368.2, y: 135.1}
   m_SizeDelta: {x: 30, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1748396136
@@ -7760,10 +8441,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -7788,6 +8469,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (23)
@@ -7802,7 +8487,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.8506002
+      value: -3.6552
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7839,6 +8524,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7893,12 +8582,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1280, y: 720}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -7962,6 +8651,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (33)
@@ -7976,7 +8669,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.855356
+      value: -3.6593
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8014,6 +8707,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 269.862
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8027,6 +8724,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (41)
@@ -8041,7 +8742,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.08
+      value: -3.8565
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8079,6 +8780,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8092,6 +8797,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (53)
@@ -8106,7 +8815,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.99
+      value: 3.2234
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8144,6 +8853,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8157,6 +8870,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (76)
@@ -8171,7 +8888,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.691
+      value: 8.2248
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8209,6 +8926,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8222,6 +8943,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (14)
@@ -8236,7 +8961,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.07
+      value: 1.5389
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8273,6 +8998,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8338,10 +9067,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -8366,6 +9095,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (42)
@@ -8380,7 +9113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.36
+      value: -3.2248
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8418,6 +9151,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8431,6 +9168,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.819
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.82264334
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (4)
@@ -8445,7 +9190,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.7427
+      value: -4.2025
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8482,6 +9227,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.82264334
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8522,10 +9271,10 @@ RectTransform:
   - {fileID: 1748396135}
   m_Father: {fileID: 1774840823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1.4645996}
-  m_SizeDelta: {x: -302.3895, y: -169.492}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.0000038147, y: 0.000020027}
+  m_SizeDelta: {x: 792.1404, y: 351.6502}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1941545057
 MonoBehaviour:
@@ -8573,6 +9322,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (49)
@@ -8587,7 +9340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.226001
+      value: 6.0623
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8625,6 +9378,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 135
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8638,6 +9395,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (20)
@@ -8652,7 +9413,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.8030005
+      value: -2.7361
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8689,6 +9450,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8752,6 +9517,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (67)
@@ -8766,7 +9535,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.165
+      value: 4.2542
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8803,6 +9572,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8870,7 +9643,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.71, y: 0.7}
+  m_Size: {x: 0.74, y: 0.74}
   m_EdgeRadius: 0
 --- !u!4 &2070884819
 Transform:
@@ -8881,7 +9654,7 @@ Transform:
   m_GameObject: {fileID: 2070884817}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.307, y: -4.208, z: 0}
+  m_LocalPosition: {x: 9.644, y: -4.208, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8921,8 +9694,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 19.2}
-  m_SizeDelta: {x: 285.8838, y: 27.2951}
+  m_AnchoredPosition: {x: 0.000045776367, y: 30.4}
+  m_SizeDelta: {x: 346.08, y: 27.2951}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2076189485
 MonoBehaviour:
@@ -8971,8 +9744,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -9032,6 +9805,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (34)
@@ -9046,7 +9823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.284
+      value: -2.2808
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9084,6 +9861,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -49.952
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9097,6 +9878,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (6)
@@ -9111,7 +9900,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.267
+      value: -3.1432
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9148,6 +9937,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9213,10 +10006,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -9241,6 +10034,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (38)
@@ -9255,7 +10056,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.9358
+      value: -3.7299
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9293,6 +10094,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9306,6 +10111,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     - target: {fileID: 5763582483582765822, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_Name
       value: DeadZone (22)
@@ -9320,7 +10129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.375
+      value: -4.1152
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9358,6 +10167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -49.952
       objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.y
+      value: 0.87729913
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9372,8 +10185,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.2846
+      value: -6.629
       objectReference: {fileID: 0}
     - target: {fileID: 5154675563486021030, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9411,6 +10228,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7151963823870134220, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7406181540543017120, guid: 5572160b0b961ee47b2b7cde2445461f, type: 3}
       propertyPath: m_Name
       value: Checkpoint
@@ -9429,6 +10250,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.8772983
+      objectReference: {fileID: 0}
+    - target: {fileID: 5104876123780090852, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 5.12
       objectReference: {fileID: 0}
@@ -9446,7 +10271,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.4
+      value: -7.6464
       objectReference: {fileID: 0}
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9483,6 +10308,10 @@ PrefabInstance:
     - target: {fileID: 7497053080965769639, guid: 0cd792594da755848acf76476a178975, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375218362036108922, guid: 0cd792594da755848acf76476a178975, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8772983
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9587,6 +10416,7 @@ SceneRoots:
   - {fileID: 713170346}
   - {fileID: 1133608316}
   - {fileID: 436846367}
+  - {fileID: 689707700}
   - {fileID: 2070884819}
   - {fileID: 1774840823}
   - {fileID: 1434348478}
