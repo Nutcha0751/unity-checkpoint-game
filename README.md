@@ -27,8 +27,8 @@ use checkpoints to save progress, and reach the finish point to win.
 
 ## 📷 Screenshot + Clip
 <img width="1107" height="546" alt="Screenshot 2026-01-10 025652" src="https://github.com/user-attachments/assets/ef08a4c4-694f-4d47-9bba-afce064708a6" />
-Clip : https://drive.google.com/file/d/16zmLv7pDWfpMFBgHA2chvNBkWGOK1iu9/view?usp=sharing  
-Play : https://nutcha0751.github.io/unity-checkpoint-game/
+- Clip : https://drive.google.com/file/d/16zmLv7pDWfpMFBgHA2chvNBkWGOK1iu9/view?usp=sharing  
+- Play : https://nutcha0751.github.io/unity-checkpoint-game/
 
 ## Important Notes (Web Version)
 - It is recommended to play the game in fullscreen mode for the best experience. Please click the Fullscreen button in the bottom-right corner of the game screen.
